@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer | Full Stack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=F7BC4C&&pause=1000&center=true&width=480&lines=Experienced+With+C%23+%26+.NET;Full-Stack+Web+Developer;3D+Graphics+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=900&size=24&color=632DFF&&pause=1000&center=true&width=480&lines=Experienced+With+C%23+%26+.NET;Full-Stack+Web+Developer;3D+Graphics+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me
